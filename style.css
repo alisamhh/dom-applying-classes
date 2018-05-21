@@ -23,7 +23,11 @@ div.blue {
 
 div.green {
     background-color: green;
-  }
+}
+
+div.purple {
+    background-color: purple;
+}
 
 .invisible {
   display: none;
